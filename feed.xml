@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>小角落</title>
+    <link href="https://publii-test.giveanornot.com/feed.xml" rel="self" />
+    <link href="https://publii-test.giveanornot.com" />
+    <updated>2026-03-05T16:12:12+08:00</updated>
+    <author>
+        <name>作者</name>
+    </author>
+    <id>https://publii-test.giveanornot.com</id>
+
+    <entry>
+        <title>test post (copy)</title>
+        <author>
+            <name>作者</name>
+        </author>
+        <link href="https://publii-test.giveanornot.com/test-post-2/"/>
+        <id>https://publii-test.giveanornot.com/test-post-2/</id>
+
+        <updated>2026-03-05T16:11:21+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    alskdjfasdf asldfkja;sldkf as;lkdfjalskdjf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    alskdjfasdf
+  </p>
+
+  <p>
+    asldfkja;sldkf
+  </p>
+
+  <p>
+    as;lkdfjalskdjf
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>test post</title>
+        <author>
+            <name>作者</name>
+        </author>
+        <link href="https://publii-test.giveanornot.com/test-post/"/>
+        <id>https://publii-test.giveanornot.com/test-post/</id>
+
+        <updated>2026-03-05T16:05:38+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    alskdjfasdf asldfkja;sldkf as;lkdfjalskdjf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    alskdjfasdf
+  </p>
+
+  <p>
+    asldfkja;sldkf
+  </p>
+
+  <p>
+    as;lkdfjalskdjf
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
